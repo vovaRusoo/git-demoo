@@ -2,6 +2,3 @@ hello world
 hello world 
 bye world 
 bye world
-
-it's me it's me 
-it's me it's me 
